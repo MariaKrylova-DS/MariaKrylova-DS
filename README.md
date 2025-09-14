@@ -33,13 +33,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MariaKrylova-DS&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&cache_seconds=86400" height="160"/>
   <img src="https://streak-stats.demolab.com?user=MariaKrylova-DS&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaKrylova-DS&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook&cache_seconds=86400" height="160"/>
 </p>
 
 #### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaKrylova-DS&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
+
+
 
   <summary>🧩 About me</summary>
 
