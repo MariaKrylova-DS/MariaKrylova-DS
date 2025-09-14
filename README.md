@@ -40,35 +40,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaKrylova-DS&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 
+---
+
 #### 📌 Pinned Projects
 
-<!-- Карточка монорепозитория -->
 <p align="center">
   <a href="https://github.com/MariaKrylova-DS/personal-ds-projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaKrylova-DS&repo=personal-ds-projects&theme=tokyonight" />
   </a>
 </p>
 
-<!-- Галерея подпроектов -->
 <p align="center">
-  <a href="https://github.com/MariaKrylova-DS/personal-ds-projects/tree/main/Analytics%20for%20a%20steel%20plant">
-    <img src="https://img.shields.io/badge/Steel%20Plant%20Analytics-regression-E25A1C?logo=scikitlearn&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/MariaKrylova-DS/personal-ds-projects/tree/main/Classification%20of%20e-commerce%20reviews">
-    <img src="https://img.shields.io/badge/E--commerce%20Reviews-classification-8A2BE2?logo=pandas&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/MariaKrylova-DS/personal-ds-projects/tree/main/Computer%20vision%20system%20for%20a%20supermarket">
-    <img src="https://img.shields.io/badge/Supermarket%20CV-detection-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/MariaKrylova-DS/personal-ds-projects/tree/main/E-scooter%20rental%20services%20analytics">
-    <img src="https://img.shields.io/badge/E--scooter%20Analytics-demand%20analysis-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/MariaKrylova-DS/personal-ds-projects/tree/main/HR%20analytics%20model">
-    <img src="https://img.shields.io/badge/HR%20Analytics-modeling-2E8B57?logo=scikitlearn&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/MariaKrylova-DS/personal-ds-projects/tree/main/Taxi%20orders%20forecasting">
-    <img src="https://img.shields.io/badge/Taxi%20Orders%20Forecasting-time%20series-0A66C2?logo=python&logoColor=white&style=for-the-badge" />
-  </a>
 </p>
 
   <summary>🧩 About me</summary>
